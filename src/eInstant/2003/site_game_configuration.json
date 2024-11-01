@@ -1,0 +1,38 @@
+{
+    "default":{			
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "12":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+	"16":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+	"36":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	}
+}

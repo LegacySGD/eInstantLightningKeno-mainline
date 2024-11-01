@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GAMES>
+	<family code="2003" desc="Keno Game" organizationName="Interactive" studio="interactive">
+		<game betMultipliers="100" gameengineversion="2" gamegroup="Keno" gamelogicversion="1.0" gametype="L" jackpotid="" languages="en_US,en_NZ,fr_CA,en_CA" loadprevstate="N"
+			name="Lightning Keno WLA" number="0" numberGenerator="RNG" productId="3" spots="1:2:3:4:5:6:7:8:9:10" version="1.0.1">
+			<paymodel cointhreshold="0" confidentlevelpct="95" fixedminmax="Y" hibethold="5.06" hibetsd="3.641" lobethold="5.06" lobetsd="3.641" maxcoins="100" maxmainbetwin="0"
+				maxsidebetwin="0" mincoins="0" modelid="300-2003-001" name="Lightning Keno : 300-2003-001" revealId="2003" revealVersionId="2003" />
+			<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2003-001" />
+			<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2003-001" />
+			<denom amount="0.01" currencycode="USD" />
+			<denom amount="0.01" currencycode="EUR" />
+			<denom amount="0.01" currencycode="CNY" />
+			<denom amount="0.01" currencycode="NZD" />
+			<denom amount="0.01" currencycode="CAD" />
+			<channels>
+				<channel name="INT">
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="600" meterheight="0" meterwidth="0" name="HTML" width="800" />
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="320" meterheight="0" meterwidth="0" name="MINH" width="480" />
+				</channel>
+				<channel name="MOB">
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="600" meterheight="0" meterwidth="0" name="HTML" width="800" />
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="480" meterheight="0" meterwidth="0" name="MINH" width="320" />
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="600" meterheight="0" meterwidth="0" name="HTAB" width="800" />
+					<presentation clientversion="1.0" enableFreeSpin="N" gameFolder="LightningKeno" height="480" meterheight="0" meterwidth="0" name="MTAB" width="320" />
+				</channel>
+			</channels>
+		</game>
+	</family>
+</GAMES>
